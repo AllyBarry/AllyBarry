@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @AllyBarry
 
-***
-
 👀 I’m interested in ...
 - Learning
 - Trying new things
